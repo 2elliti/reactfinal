@@ -15,7 +15,7 @@ function App() {
           <tr>
             <td>Task-1</td>
             <td>
-              <a target="_blank" href="https://github.com/Divyansh0503/Rtask-1">
+              <a target="_blank" href="https://github.com/2elliti/Rtask1">
                 GitHub_Task-1
               </a>
             </td>
@@ -28,7 +28,7 @@ function App() {
           <tr>
             <td>Task-2</td>
             <td>
-              <a target="_blank" href="https://github.com/Divyansh0503/Rank-2">
+              <a target="_blank" href="https://github.com/2elliti/Rtask-2">
                 GitHub_Task-2
               </a>
             </td>
@@ -41,7 +41,7 @@ function App() {
           <tr>
             <td>Task-3</td>
             <td>
-              <a target="_blank" href="https://github.com/Divyansh0503/Rtask-3">
+              <a target="_blank" href="https://github.com/2elliti/Rtask-3">
                 GitHub_Task-3
               </a>
             </td>
@@ -54,7 +54,7 @@ function App() {
           <tr>
             <td>Task-4</td>
             <td>
-              <a target="_blank" href="https://github.com/Divyansh0503/Rtask-4">
+              <a target="_blank" href="https://github.com/2elliti/Rtask-4">
                 GitHub_Task-4
               </a>
             </td>
@@ -67,7 +67,7 @@ function App() {
           <tr>
             <td>Task-5</td>
             <td>
-              <a target="_blank" href="https://github.com/Divyansh0503/Rtask-5">
+              <a target="_blank" href="https://github.com/2elliti/Rtask-5">
                 GitHub_Task-5
               </a>
             </td>
@@ -80,7 +80,7 @@ function App() {
           <tr>
             <td>Task-6</td>
             <td>
-              <a target="_blank" href="https://github.com/Divyansh0503/Rtask-6">
+              <a target="_blank" href="https://github.com/2elliti/rtask6">
                 GitHub_Task-6
               </a>
             </td>
